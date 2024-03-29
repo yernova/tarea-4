@@ -1,0 +1,69 @@
+.tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .parisienne-regular {
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.container
+{
+    background-color: aqua;
+    
+    height: 100px;
+}
+
+
+.row
+{
+    background-color: gold;
+    margin: 5px;
+}
+.col{
+    background-color: plum;
+    margin: 5px;
+}
+
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.righteous-regular {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.list-group {
+  background-color: aqua;
+  margin: 5px;
+}
+.list-group-item {
+  background-color: rgb(141, 248, 0);
+  margin: 5px;
+}
+
+.accordion-item{
+  background-color: rgb(94, 94, 245);
+  margin: 5px;
+}
+
+.carousel-inner{
+  
+  margin-left: 0%;
+  margin-top: 10%;
+  
+}
+.cajaImganes{
+  background-color: rgb(225, 255, 93);
+  align-content: flex-end;
+
+}
+
